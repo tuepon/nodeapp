@@ -1,26 +1,19 @@
 {
   "name": "nodeapp",
-  "version": "1.0.0",
-  "main": "index.js",
+  "version": "0.1.1",
+  "description": "\"\"\u001b[Express app with ejs",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
-    "express": "*",
-    "pug": "*",
-    "nib": "*"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tuepon/nodeapp.git"
   },
-  "author": "tuepon",
-  "license": "ISC",
+  "author": "Tomonori Ueno",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/tuepon/nodeapp/issues"
   },
-  "homepage": "https://github.com/tuepon/nodeapp#readme",
-  "devDependencies": {},
-  "keywords": [],
-  "description": ""
+  "homepage": "https://github.com/tuepon/nodeapp#readme"
 }
