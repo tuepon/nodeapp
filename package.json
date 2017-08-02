@@ -3,6 +3,10 @@
   "version": "0.1.1",
   "description": "\"\"\u001b[Express app with ejs",
   "main": "app.js",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "gulp": "*"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
